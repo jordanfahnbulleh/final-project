@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+I'm defintely planning on making a game
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
