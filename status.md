@@ -2,7 +2,7 @@
 
 #### Your name
 
-TODO
+Jordan Fahnbulleh
 
 #### Your section leader's name
 
@@ -10,7 +10,7 @@ TODO
 
 #### Project title
 
-TODO
+Mario
 
 ***
 
